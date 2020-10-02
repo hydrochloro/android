@@ -1,2 +1,2 @@
 # android
-Android app
+Android app eith Android Studio
